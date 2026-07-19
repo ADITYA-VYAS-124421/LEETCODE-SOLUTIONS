@@ -1,4 +1,3 @@
-// Difficulty - Medium
 // Time Complexity - O(√c)
 // Space Complexity - O(1)
 

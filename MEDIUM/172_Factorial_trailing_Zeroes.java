@@ -1,4 +1,3 @@
-// Difficulty - Medium
 // Time Complexity - O(log₅ n)
 // Space Complexity - O(1)
 
