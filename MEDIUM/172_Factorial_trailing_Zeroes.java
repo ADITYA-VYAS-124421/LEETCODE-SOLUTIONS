@@ -1,3 +1,7 @@
+// Difficulty - Medium
+// Time Complexity - O(log₅ n)
+// Space Complexity - O(1)
+
 class Solution {
 
     public int trailingZeroes(int n) {

@@ -1,3 +1,7 @@
+// Difficulty - Medium
+// Time Complexity - O(√c)
+// Space Complexity - O(1)
+
 class Solution {
     public boolean judgeSquareSum(int c) {
         int low = 0;
